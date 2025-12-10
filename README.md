@@ -8,3 +8,6 @@ the DDX3216 sourcecode from the firmware for the effects although I am intereste
 was simply taking some of the basic bare metal plugins and trying to build them in juce.  
 I'm not sort of trying to make them more CPU efficent as although they are about half of what they were 
 originally   they are still pretty heavy CPU load for a basic tremolo plugin for instance. 
+
+
+little bit too much clipping I think on this sounds a bit dirty to me at times so may need to figure that out somehow.
